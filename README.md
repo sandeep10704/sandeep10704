@@ -90,5 +90,5 @@ I'm a **Computer Science student** at SRM University with a deep passion for tur
 ---
 
 <p align="center">
-  <img src="https://github.com/sandeep10704/sandeep10704/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/sandeep10704/sandeep10704/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
