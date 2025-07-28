@@ -1,4 +1,4 @@
-[<p align="center">
+<p align="center">
   <img src="https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png" alt="Sandeep's Tech Banner">
 </p>
 
@@ -85,4 +85,3 @@
 <p align="center">
   <img src=".github/workflows/snake.yml" alt="snake animation" />
 </p>
-]
