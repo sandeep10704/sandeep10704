@@ -13,7 +13,7 @@
 - 🌟 Passionate about **Web Development**, **Machine Learning**, and **Cryptography**
 - 💡 Currently working on: `AI Projects`, `React Apps`, and `Spring Boot APIs`
 - 🛠️ Always learning something new — exploring **System Design**, **LLMs**, and **Docker**
-- ✍️ I regularly write blogs on [Hashnode](https://your-blog-link) *(optional)*
+
 
 ---
 
