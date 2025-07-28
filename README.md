@@ -32,7 +32,7 @@ I'm a passionate **developer and student** currently pursuing B.Tech in Computer
 ---
 
 ## 📈 GitHub Stats
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep10407&show_icons=true&theme=tokyonight)
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep10704&show_icons=true&theme=tokyonight)
 
 ---
 
