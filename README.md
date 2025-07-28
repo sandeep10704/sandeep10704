@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/sandeep10704/sandeep10704/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src=".github/workflows/snake.yml" alt="snake animation" />
 </p>
-](https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png)
+]
