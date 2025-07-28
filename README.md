@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer and ML enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeep10407&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep10407" />
+  <img src="https://komarev.com/ghpvc/?username=sandeep10704&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep10704" />
 </p>
 
 ---
