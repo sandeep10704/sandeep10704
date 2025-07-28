@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png" alt="Sandeep's Tech Banner">
 </p>
 
@@ -85,3 +85,4 @@
 <p align="center">
   <img src="https://github.com/sandeep10704/sandeep10704/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+](https://res.cloudinary.com/dq7lkkucz/image/upload/v1753692353/banner_vxppj2.png)
